@@ -1,6 +1,6 @@
 # Instagram
 
-#### Created By Amon Wangyonyi
+#### Created By Amon Wanyonyi
 
 ## Description
 
